@@ -1,0 +1,19 @@
+.App {
+}
+.App h1 {
+  text-align: center;
+}
+.App .articles {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Article {
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px black;
+  margin: 20px;
+  padding: 20px;
+  width: 220px;
+  background-color: white;
+}
